@@ -21,4 +21,4 @@ These are the pre-build stacks you can deploy directly to your AWS accounts. all
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
